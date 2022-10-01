@@ -21,10 +21,12 @@
 ![Image](MacWhere.png)
 -This is the section where I copy a file from my macbook to a remote server.
 -I created a file called WhereAmI, ran commands such as "Javac WhereAmI.java" and finding my file in my home directory. 
+
 **Setting an SSH Key**
 ![Image](Key.png)
 -Here we used the ssh-keygen command that creates a public and private key which I could use to copy to a server and save my login password
 -This part was actually very tricky for me and took me a while but when it finally copied I had to re-enter my password, logout, and then was finally able to login without having to type my password 
+
 **Optimizing Remote Running**
 ![Image](Running.png)
 -Here I used the "ssh vsanchezmartinez@ieng6.ucsd.edu ls command to directly log into the server and get the home directory. 
