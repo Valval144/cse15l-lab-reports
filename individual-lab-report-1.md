@@ -1,6 +1,6 @@
 # Week 1 Lab Report #
 **Installing VS Code**
-![Image](https://github.com/Valval144/cse15l-lab-reports/blob/main/VS%20Code%20ss.png)
+![Image](VS Code ss.png)
 - Before starting with the lab I had already installed VS Code due to starting on PA 0 beforehand. 
 - I had followed these instructions a few days back on the PA 0 instructions so this is why my VS Code looks this way. 
 
