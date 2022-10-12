@@ -68,7 +68,9 @@
 ---
 
 **Optimizing Remote Running**
+  
 <img src="lastStep.png" width=500>
+  
 -Here I used the "ssh vsanchezmartinez@ieng6.ucsd.edu ls command to directly log into the server and get the home directory. 
 -Since I had created my key, I did not have to type in my password.
 -The commands that I typed out were: 
