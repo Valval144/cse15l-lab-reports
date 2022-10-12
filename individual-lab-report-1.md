@@ -3,6 +3,7 @@
 ![Image](VS.png)
 - Before starting with the lab I had already installed VS Code due to starting on PA 0 beforehand. 
 - I had followed these instructions a few days back on the PA 0 instructions so this is why my VS Code looks this way. 
+![Image](VSCode.png)
 
 **Remotely Connecting** 
 ![Image](Remote.png) 
