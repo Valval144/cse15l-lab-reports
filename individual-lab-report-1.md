@@ -56,7 +56,7 @@
 ---
 **Setting an SSH Key**
 
-![Image](Key.png)
+<img src="Key.png" width=300>
 
 -Here we used the ssh-keygen command that creates a public and private key which I could use to copy to a server and save my login password
 - I did this by typing in the terminal "ssh-keygen" on the client (my laptop)and a generated key showed up 
@@ -68,7 +68,7 @@
 ---
 
 **Optimizing Remote Running**
-<img src="LastStep.png" width=500>
+<img src="lastStep.png" width=500>
 -Here I used the "ssh vsanchezmartinez@ieng6.ucsd.edu ls command to directly log into the server and get the home directory. 
 -Since I had created my key, I did not have to type in my password.
 -The commands that I typed out were: 
