@@ -2,9 +2,9 @@
 **Installing VS Code**
 
 <img src="VS.png" width=500>
-- Before starting the lab, I had to install VS Code with this available link (https://code.visualstudio.com/)and downloaded the specific version for my laptop (OSX for Mac and Windows for PC) I chose OSX.
+- Before starting the lab, I had to install VS Code with this available link (https://code.visualstudio.com/) and downloaded the specific version for my laptop (OSX for Mac and Windows for PC) I chose OSX.
 <img src="VSCode.png" width=400>
-- This is what my VS Code looks like when I open it up but I had already used this application before. You can see what my recents were which were some of my PAs and my cloned github directory. Side note: if I wanted to open up this rendered markdown (a live person of me editing my repository) I could simply click the booklet with the magnifying glass on the top right.  
+- This is what my VS Code looks like when I open it up but I had already used this application before. You can see what my recents were which were some of my PAs and my cloned github directory. Side note: if I wanted to open up this rendered markdown (a live version of me editing my repository) I could simply click the booklet with the magnifying glass on the top right.  
 
 ---
 **Remotely Connecting** 
@@ -19,7 +19,7 @@
 
 -In this new terminal is where I will be writing my commands. This is how I will be connecting to a remote computer. 
 
--I type in the command "ssh vsanchezmartinez@ieng.ucsd.edu" soley because my CS account was not working. Typically you would want to type in "SSH cs15lfa22(2 unique letters)@ieng.ucsd.edu. We use the SSH command because it stands for Secure Shell and its a way of safely connecting to another computer. 
+-I type in the command "ssh vsanchezmartinez@ieng6.ucsd.edu" soley because my CS account was not working. Typically you would want to type in "SSH cs15lfa22(2 unique letters)@ieng6.ucsd.edu. We use the SSH command because it stands for Secure Shell and its a way of safely connecting to another computer. 
 
 -After this you should see "Are you sure you want to continue connecting (yes/no/[fingerprint])?", type yes, enter, and then you will be prompted to type in your password. You are now successfully logged onto the remote computer.
 
