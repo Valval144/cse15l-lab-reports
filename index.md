@@ -6,8 +6,10 @@
 > Hi investigators, this is _Amelia Watson_ from **Hololive** and I need you help! Please enter the 16 numbers on your...
 
 
-1) [Lab Report 1](https://github.com/Valval144/cse15l-lab-reports/blob/main/lab-report-1-week-0.md)
+1) [Lab Report 1](https://github.com/Valval144/cse15l-lab-reports/blob/main/individual-lab-report-1.md)
 
 2) [Practice](https://github.com/Valval144/cse15l-lab-reports/blob/main/practice.md)
 
 3) [Lab Report 2](https://github.com/Valval144/cse15l-lab-reports/blob/main/individual-lab-report-1.html)
+
+
