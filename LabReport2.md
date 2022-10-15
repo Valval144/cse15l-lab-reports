@@ -101,9 +101,11 @@ Bug #1
 - for the ArrayExamples.java file a bug that I had found interesting was the reversed method because it was not reversing at all. 
 
 -Failure-inducing input:
+
 <img src="test.png" width=600>
 
 -The Symptom:
+
 <img src="failure.png" width=700>
 
 -The Bug: 
@@ -116,11 +118,13 @@ arr[i]=newArray[arr.length-i-1];
 Bug #2
 
 -Failture-inducing input: I was not able to figure out how to use the sc.checkString(s) method so I was not able to finish up this section but I do have my guesses and estimations. 
+
 <img src="testingList.png" width=600>
 
 -The Symptom: I did not actually get to create a valid JUnit test and get a result 
 
 -The Bug:(my best guess)
+
 <img src="Listbug.png" width=500>
 
 -The connection I would make between these two is that because the index of the array list is not incrementing and remains at "0" then it might not be updating properly or updates over an already existing string so it owuld be something like "dog" = "cat". If my guess is correct then the Symptom (the error that will be shown if I get to properly create the JUnit test) will show me what the code is doing wrong and I just have to edit the section of code that I highlighted. 
