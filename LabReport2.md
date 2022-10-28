@@ -114,6 +114,10 @@ arr[i]=newArray[arr.length-i-1];
 ```
 -The connection between the symptom and the bug is that the symptom is error message that I got thanks to my JUnit test. This test case showed me the error which I was getting which in the image says my list was not being reversed correctly or reversed at all for that matter. It relates back to the bug because the bug is the source of this error. I got rid of this symptom by fixing the bug and the issue was that the newArray was being declared to be the old array when it should have been the opposite. You want to print out the new reversed array.
 
+-The Fix: 
+
+<img src="Arrayfix.png" width =600>
+
 ---
 Bug #2
 
