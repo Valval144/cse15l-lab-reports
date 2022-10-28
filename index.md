@@ -10,6 +10,6 @@
 
 2) [Practice](https://github.com/Valval144/cse15l-lab-reports/blob/main/practice.md)
 
-3) [Lab Report 2](https://github.com/Valval144/cse15l-lab-reports/blob/main/individual-lab-report-1.md)
+3) [Lab Report 2](https://github.com/Valval144/cse15l-lab-reports/blob/main/individual-lab-report-1.html)
 
 
