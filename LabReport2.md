@@ -127,6 +127,8 @@ Bug #2
 
 -The Symptom: I did not actually get to create a valid JUnit test and get a result 
 
+<img src="failedTest.png" width=600>
+
 -The Bug:(my best guess)
 
 <img src="Listbug.png" width=500>
