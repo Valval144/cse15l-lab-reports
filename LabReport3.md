@@ -87,6 +87,7 @@ owner@Owners-MacBook-Pro-2 technical % find . -type d -name "A*"
 ./government/Alcohol_Problems
 ```
 - This command is a little more specific I used -type d to find a directory but now I used -name to find a specific directory within /technical that starts with "A".
+
 - This is useful when trying to pinpoint a specific directory by its name instead of being shown all the directories within /technical(another directory)
 ---
 ## -amin ##
