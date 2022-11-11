@@ -112,7 +112,15 @@ Ex.2: `find ./911report -type f -name "*13*" -amin -10`
 owner@Owners-MacBook-Pro-2 technical % find ./911report -type f -name "*13*" -amin -10
 ./911report/chapter-13.5.txt
 ```
-- This is a far more specific command where I look for files within the ./911report, find the name of the file I want to look at which was any file that has the number 13 in it, and that it was accessed 10 minutes ago. Following all of this, it showed me chapter-13.5.txt. Notice how it did not mention "Extra-chapter.txt" from my last command because of the -name "*13*" so it was not brought up even if it was accessed within the same time period. 
+- This is a far more specific command where I look for files (-type f) within the ./911report, find the name of the file I want to look at which was any file that has the number 13 in it, and that it was accessed 10 minutes ago. Following all of this, it showed me chapter-13.5.txt. Notice how it did not mention "Extra-chapter.txt" from my last command because of the -name "*13*" so it was not brought up even if it was accessed within the same time period. 
 - I find this useful when trying to be very specific on what files you want to show that you accessed certain minutes ago instead of getting a very general list. 
 
-Ex.3: `
+Ex.3: `find ./government -type d -atime -10`
+
+```
+owner@Owners-MacBook-Pro-2 technical % find ./government -type d -atime -10
+./government
+./government/Media
+```
+- Before starting, I added a file within the Media directory. This command goes within ./government and checks to see what directory (-type d) within that government directory was accessed within the past 10 minutes.
+- This could be useful when wanting to see specifially in what directory you were workin in n-minutes ago. For example, if you forgot what file you were just in but remember within what directory, you can type in this command and how many minutes ago or substitue it with -atime if it was accessed 24+ hours ago.
