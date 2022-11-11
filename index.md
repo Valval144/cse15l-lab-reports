@@ -13,3 +13,5 @@
 3) [Lab Report 1](https://github.com/Valval144/cse15l-lab-reports/blob/main/individual-lab-report-1.md)
 
 4) [Lab Report 2](https://valval144.github.io/cse15l-lab-reports/LabReport2.html)
+
+5) [Lab Report 3](https://valval144.github.io/cse15l-lab-reports/LabReport3.html)
