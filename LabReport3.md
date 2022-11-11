@@ -87,7 +87,7 @@ owner@Owners-MacBook-Pro-2 technical % find . -type d -name "A*"
 ./government/Alcohol_Problems
 ```
 - This command is a little more specific I used -type d to find a directory but now I used -name to find a specific directory within /technical that starts with "A".
--This is useful when trying to pinpoint a specific directory by its name instead of being shown all the directories within /technical
+- This is useful when trying to pinpoint a specific directory by its name instead of being shown all the directories within /technical(another directory)
 ---
 ## -amin ##
 - command finds what was last accessed n minutes ago
@@ -112,7 +112,7 @@ Ex.2: `find ./911report -type f -name "*13*" -amin -10`
 owner@Owners-MacBook-Pro-2 technical % find ./911report -type f -name "*13*" -amin -10
 ./911report/chapter-13.5.txt
 ```
-- This is a far more specific command where I look for files (-type f) within the ./911report, find the name of the file I want to look at which was any file that has the number 13 in it, and that it was accessed 10 minutes ago. Following all of this, it showed me chapter-13.5.txt. Notice how it did not mention "Extra-chapter.txt" from my last command because of the -name "*13*" so it was not brought up even if it was accessed within the same time period. 
+- This is a far more specific command where I look for files (-type f) within the ./911report, find the name of the file I want to look at which was any file that has the number 13 in it (-name "*13*"), and that it was accessed 10 minutes ago(-amin -10). Following all of this, it showed me chapter-13.5.txt. Notice how it did not mention "Extra-chapter.txt" from my last command because of the -name "*13*" so it was not brought up even if it was accessed within the same time period. 
 - I find this useful when trying to be very specific on what files you want to show that you accessed certain minutes ago instead of getting a very general list. 
 
 Ex.3: `find ./government -type d -atime -10`
