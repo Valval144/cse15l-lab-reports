@@ -95,3 +95,14 @@
 - code lines 25-26 
 - here I type in :wq to save and close and press <Enter>
 
+---
+# Part 2 #
+
+- This part took me around an hour to do (60 minutes or 3,600 seconds)
+- It took me this long because I was getting confused with other files since the skill-demos we have been using have files with very similar names. I accidentally vimmed into TestDocSearch.java instead of DocSearchServer.java
+
+<img src="RemoteBase.png" width=500>
+- this is a screenshot I took when I vimmed in and was messing around with the file from a remote computer. 
+- Out of the two styles, I think I prefer the second option which was making the edits in vim while in a ssh session. I like this better because I can see the charm and efficiency of vim. It is a lot more easier to navigate with and it also helps that the remote computer highlights and colors different key terms. 
+- If I had a really big project like maybe a massive PA to complete I would consider using vim as I don't have to manually find all the files and I can also use the useful commands like "/search". In plain VS Code I sort of have to find everything manually and don't use any "cheat codes" like d,w,i. 
+- If I had to do a small assignment that involves a few lines of code I would do it regularly on VS Code since I don't need all the fancy commands. 
