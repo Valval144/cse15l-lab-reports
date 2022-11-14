@@ -1,4 +1,4 @@
-# Week 7: Lab Report 5 #
+# Week 7: Lab Report 4 #
 
 ```
 1. Vim TestDocSearch.java
@@ -26,7 +26,72 @@
 23. I
 24. "Base"
 25. <Esc>
-26. N
-27. :wq 
-28. <Enter>
+26. :wq 
+27. <Enter>
 ```
+---
+## Visualization ##
+
+### First Start Removal ###
+
+<img src="startDW1.png" width=500>
+- code lines 3-4 
+- Here I am deleting "start" with the d key and the w key brings my cursor to the beginning of (Path )
+
+<img src="insertB1.png" width=500>
+- code lines 5-6
+- Press i key to insert and type "Base"
+
+<img src="EscN1.png" width=500>
+- code lines 7-8 
+- Pressing <Esc> to get out of insert mode and typing n to go back into searching for "/start"
+
+---
+
+### Second Start Removal ###
+
+<img src="startDW2.png" width=500>
+- code lines 9-10 
+- Back to deleting "start" with d and having my cursor at the highlighted area when pressing w 
+
+<img src="insertB2.png" width=500>
+- code lines 11-12
+- Press i key to insert and type "Base"
+
+<img src="EscN2.png" width=500>
+- code lines 13-14
+- Pressing <Esc> to get out of insert mode and typing n to go back into searching for "/start"
+
+---
+
+### Third Start Removal ###
+
+<img src="startDW3.png" width=500>
+- code lines 15-16
+- Back to deleting "start" with d and having my cursor at the highlighted area when pressing w
+
+<img src="insertB3.png" width=500>
+- code line 17-18
+- Press i key to insert and type "Base"
+
+<img src="EscN3.png" width=500>
+- code line 19-20
+- Pressing <Esc> to get out of insert mode and typing n to go back into searching for "/start"
+
+---
+
+### Last Start Removal ###
+
+<img src="startDW4.png" width=500>
+- code lines 21-22
+- Back to deleting "start" with d and having my cursor at the highlighted area when pressing w
+
+<img src="insertB4.png" width=500>
+- code lines 23-24
+- Press i key to insert and type "Base"
+
+<img src="leaving.png" width=500>
+- Here everything is running accordingly to the code from way above I just accidentally scrolled up on the code after pressing <Esc>
+- code lines 25-26 
+- here I type in :wq to save and close and press <Enter>
+
