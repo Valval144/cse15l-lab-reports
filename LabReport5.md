@@ -43,24 +43,28 @@ else
     exit 3
 fi
 ```
+
 ---
 
 #### Screenshot #1 ####
 https://github.com/ucsd-cse15l-f22/list-methods-corrected
 
 <img src="secondEx.png" width=800>
+
 ---
 
 #### Screenshot #2 ####
 https://github.com/ucsd-cse15l-f22/list-methods-compile-error
 
 <img src="thirdEx.png" width=800>
+
 ---
 
 #### Screenshot #3 ####
 https://github.com/ucsd-cse15l-f22/list-methods-filename
 
 <img src="ExtraExample.png" width=900>
+
 ---
 
 ## Explanation of Screenshot 2 ##
